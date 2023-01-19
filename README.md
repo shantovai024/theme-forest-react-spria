@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# ThemeForest Live Link
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Spria React Template](https://preview.themeforest.net/item/spria-saas-app-startup-react-template/full_screen_preview/43074443?_ga=2.202501713.1381299119.1674040057-1964801736.1673616978).
 
 ## Available Scripts
 
